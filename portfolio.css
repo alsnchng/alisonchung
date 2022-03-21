@@ -1,0 +1,87 @@
+.logo{
+	font: 12px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-align: left;
+	text-decoration: none;
+	margin: 50px;
+	position: static;
+}
+.logo-2{
+	font: 12px Helvetica, sans-serif;
+	color: antiquewhite;
+	float: right;
+	text-decoration: none;
+	margin: 50px;
+	position: static;
+}
+
+.intro{
+	font: lighter 130px Helvetica, sans-serif;
+	color: antiquewhite;
+	margin: 150px 50px;
+	text-align: right;
+}
+
+.about-me{
+	font: lighter 18px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-align: justify;
+	margin: 130px 50px 0px 550px;
+}
+
+.p{
+	float: left;
+	margin: 50px;
+	font: lighter 12px Helvetica, sans-serif;
+	color: antiquewhite;
+}
+.editorials{
+	position: static;
+	margin: 400px;
+	text-align: center;
+	font: lighter 130px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-decoration: none;
+}
+.branding{
+	position: static;
+	margin: 400px;
+	text-align: center;
+	font: lighter 130px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-decoration: none;
+}
+.personalwork{
+	position: static;
+	margin: 400px;
+	text-align: center;
+	font: lighter 130px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-decoration: none;
+}
+
+.contact{
+	margin: 130px 600px 50px 50px;
+	font: 12px Helvetica, sans-serif;
+	color: antiquewhite;
+	text-align: left;
+}
+
+
+
+.img{
+	margin: 50px;
+	float: right;
+}
+.img-2{
+	margin: 50px;
+	float: right;
+}
+.img-3{
+	margin: 10px;
+	float: right;
+}
+.img-4{
+	margin: 50px;
+	float: left;
+}
